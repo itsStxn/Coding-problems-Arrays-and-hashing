@@ -11,6 +11,7 @@
 - Remove Element
 - Roman to Integer
 - Two Sum
+- String Encode and Decode
 - Valid Anagram
 
 ## Medium
