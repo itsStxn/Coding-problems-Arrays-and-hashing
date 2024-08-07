@@ -1,5 +1,5 @@
 ﻿using Check_Dom;
 
-Solution task = new Solution();
+var task = new Solution();
 Console.WriteLine(task.CheckDOM("<div><div><b></b></div></p>"));
 Console.WriteLine(task.CheckDOM("<div>abc</div><p><em><i>test test test</b></em></p>"));
